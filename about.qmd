@@ -1,0 +1,41 @@
+---
+title: "Lukman Lateef"
+about:
+  template: jolla
+  image: img/sample_img.png
+  id: hero-heading
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lukman-lateef-a894aa107/
+    - icon: twitter-x
+      href: https://x.com/Lateef_Abolanle
+    - icon: github
+      text: Github
+      href: https://github.com/Lukman-Lateef
+---
+
+
+:::{#hero-heading}
+
+Lukman is an experienced Business Intelligence Developer, highly skilled in defining, building, and maintaining data pipelines and ETL that will enable faster, better, data-informed decision-making and provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+
+
+
+:::{#hero-heading} 
+## Education
+
+The University of British Columbia, Vancouver, BC
+Master of Data Science | Aug 2024 - June 2025
+
+Federal University of Agriculture, Nigeria
+B.A in Plant Science | Sept 2011 - Dec 2016
+
+## Experience
+
+Airtel Africa | Senior BI/Data Engineer | April 2022 - present
+
+Access Bank PLC | Analytics Engineer | Sept 2018 - April 2022
+
+
+

@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "My Profile and Impact"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - impacts.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

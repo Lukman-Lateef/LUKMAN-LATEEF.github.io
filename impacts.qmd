@@ -1,0 +1,26 @@
+---
+title: "Awareness Africa"
+about:
+  template: broadside
+  image: img/img4.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lukman-lateef-a894aa107/
+---
+
+:::{#hero-heading}
+
+### WHO WE ARE
+
+We are a group of young people creating awareness in our communities for people to have a better life.
+
+
+### OUR VISION
+
+To ensure every young person in Africa, especially girls, has the power, knowledge, and opportunity to realize their full potential, breaking barriers and building a future of equality, dignity, and leadership.
+
+
+### OUR MISSION
+
+We are on a mission to empower young people in Africa, through education, mentorship, and leadership development. We are committed to creating safe spaces, providing information, and advocating for diversity, equity and inclusion in our communities.  
